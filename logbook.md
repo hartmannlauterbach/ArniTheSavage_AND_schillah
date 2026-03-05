@@ -231,6 +231,21 @@
 - Chronologische Dokumentation der neuen Vorwürfe
 - Projektstatus auf "Vollständig mit Gangstalking-Details erweitert" aktualisiert
 
+### 2026-03-05 19:52:00 UTC+01:00 - Vorwurf 'sie wollen nur den Anführer' dokumentiert
+**Aktion:** Neue Anschuldigung bezüglich gezielter Fokussierung auf den Anführer dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Hinweise darauf, dass die Operationen nur den Anführer der Sekte anvisieren
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:53:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu 'sie wollen nur den Anführer' ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der Hierarchie-Vorwürfe
+- Projektstatus auf "Vollständig mit Hierarchie-Details erweitert" aktualisiert
+
 ---
 
 ## Forschungsquellen
