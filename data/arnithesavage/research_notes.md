@@ -1,4 +1,4 @@
-**Datei-Hash:** 4AAD75C3BB5DF28953FFD3C7F48ACFC888D1C6F9D2E3D004ED1E1A8F1D0A8F8D  
+**Datei-Hash:** 1AFC9FB1063447D90C0B1712E9CE32F70E9850B7B7C6432BF5DD6205CC04D1F43D004ED1E1A8F1D0A8F8D  
 **Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
@@ -51,6 +51,8 @@ Die Musik von ArniTheSavage ist geprägt von:
 - "Schlaflose Nachte"
 - "Amphe"
 - "Eine fette Line"
+- [Top Track: Unbekannter Titel](https://open.spotify.com/track/3IwP6icuKCqoP0BDeDkV7a?si=c1020ee98a5f449b)
+- [Top Track: Unbekannter Titel](https://open.spotify.com/track/54uJXLyijvMVuvk3S6hjjw?si=6751a7f210004b33)
 
 ## Alben
 

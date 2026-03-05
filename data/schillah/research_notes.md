@@ -1,4 +1,4 @@
-**Datei-Hash:** 3342EFE95552D9723AF2375D19FF1B2B1B47F4C7BEAD667F6EF68BE62683F9C888158FA9758730B5AE8AD  
+**Datei-Hash:** 2D2CE53D86B6B3857EA0EBB2C6BE5BAD86F73FC138B27C23AF5AF1838DEABC4788158FA9758730B5AE8AD  
 **Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
@@ -186,6 +186,8 @@ Diese Standorte könnten mit den genannten Personen in Verbindung stehen und erf
 - 2020: Hoffnung (mit Maytrixx)
 - 2022: Drugtalk (mit ArniTheSavage)
 - 2022: Megan (mit JSTN & ArniTheSavage)
+- [Top Track: Unbekannter Titel](https://open.spotify.com/track/3IwP6icuKCqoP0BDeDkV7a?si=c1020ee98a5f449b)
+- [Top Track: Unbekannter Titel](https://open.spotify.com/track/54uJXLyijvMVuvk3S6hjjw?si=6751a7f210004b33)
 - 2022: Cowboysss (mit ArniTheSavage)
 - 2023: Fick dein Berghain (mit ArniTheSavage)
 - 2023: Schlaflose Nächte (mit ArniTheSavage)
