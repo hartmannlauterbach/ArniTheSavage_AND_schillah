@@ -1,5 +1,5 @@
 **Datei-Hash:** 191150AAFFAAEB24D0439DE1602229E5F09DB5FD2038B578688BEDAF55BB22BE  
-**Letzte Aktualisierung:** 2026-03-05 19:33:00 UTC+01:00
+**Letzte Aktualisierung:** 2026-03-05 19:36:00 UTC+01:00
 
 ## Projektübersicht
 
@@ -46,6 +46,8 @@ Es liegen gravierende Anschuldigungen vor, dass beide Musiker von der Neuen Welt
 
 **Kontext:**
 Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, bei der die Musikproduktionen der Künstler als psychologische Waffe dienen sollen, um die mentale Instabilität der Opfer zu aggravieren und sie zur Selbstzerstörung zu treiben.
+
+**Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen.
 
 ### Tiefere Recherche: Psycho-Gruppen und Gangstalking
 
