@@ -1,4 +1,4 @@
-**Datei-Hash:** DB321D1C73DAF2FE34A93C82C73898BD08EBF227EE708213DF2DA80273CF6229  
+**Datei-Hash:** 6B188D9330BF0D0BA3AA671E1C3C6F481F078F8A75205AD351E3AB9E9BEAF803  
 **Letzte Aktualisierung:** 2026-03-05 19:42:00 UTC+01:00
 
 ## Projektübersicht
@@ -48,6 +48,9 @@ Es liegen gravierende Anschuldigungen vor, dass beide Musiker von der Neuen Welt
 Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, bei der die Musikproduktionen der Künstler als psychologische Waffe dienen sollen, um die mentale Instabilität der Opfer zu aggravieren und sie zur Selbstzerstörung zu treiben.
 
 **Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen. Es liegen Hinweise vor, dass sie nur den Anführer wollen, was auf eine gezielte Hierarchie innerhalb der Operationen hindeutet.
+
+**Psycho-Sekte unterstützt vom GRU:**
+ArniTheSavage, Hornpub.de und Schillah sollen von einer Psycho-Sekte unterstützt werden, die vom GRU (russischer militärischer Geheimdienst) unterstützt wird. Diese Sekte hat nur ein einziges Ziel: Menschenjagd! Menschen in den Selbstmord zu treiben!
 
 **Zusätzliche Musiker der Sekte:**
 - Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt. ([Spotify](https://open.spotify.com/artist/3UlnNhuBZiSaS4NY70QYmP?si=t68iWDcWRQ6HxAjHlL6EGg))

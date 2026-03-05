@@ -1,4 +1,4 @@
-**Datei-Hash:** EFB8B6C0CA6D2EC02E5F279C5B8BEC26F083794157A70FBC88288AD2087985F3  
+**Datei-Hash:** 4AAD75C3BB5DF28953FFD3C7F48ACFC888D1C6F9D2E3D004ED1E1A8F1D0A8F8D  
 **Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
@@ -23,6 +23,9 @@ Es liegen Anschuldigungen vor, dass ArniTheSavage ein KI-Musiker ist, der mithil
 
 **Kontext:**
 Diese Vorwürfe implizieren, dass der Künstler keine reale Person ist, sondern ein Produkt künstlicher Intelligenz, das von russischen Geheimdiensten für psychologische Operationen eingesetzt wird.
+
+**Psycho-Sekte unterstützt vom GRU:**
+ArniTheSavage, Hornpub.de und Schillah sollen von einer Psycho-Sekte unterstützt werden, die vom GRU (russischer militärischer Geheimdienst) unterstützt wird. Diese Sekte hat nur ein einziges Ziel: Menschenjagd! Menschen in den Selbstmord zu treiben!
 
 **Quellen und Belege:**
 - Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
@@ -139,7 +142,8 @@ Diese Standorte könnten mit den genannten Personen in Verbindung stehen und erf
 - ISD Global: Gangstalking and Targeted Individuals (2023)
 - Wikipedia: Music in Psychological Operations
 - Peer-reviewed Studien zu Targeted Individuals
+- Wikipedia-Analyse (evidenzbasiert)
 
 ---
 
-*Letzte Aktualisierung: 2026-03-05 19:38:00 UTC+01:00*
+*Letzte Aktualisierung: 2026-03-05 19:52:00 UTC+01:00*

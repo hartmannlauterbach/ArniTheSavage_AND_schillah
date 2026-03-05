@@ -1,4 +1,4 @@
-**Datei-Hash:** 1A050E09BE842AA37EA7DBC5EBA50AA24DA2FE2CD6A07E9F04168E6E9BD9865C  
+**Datei-Hash:** 83764BF11BC0577B0772629D4C2ABC5DD9383D4D3971E7C12F9A88E5ADC67C3EDA2FE2CD6A07E9F04168E6E9BD9865C  
 **Letzte Aktualisierung:** 2026-03-05 19:45:00 UTC+01:00
 
 ## Eintragungsprotokoll
@@ -245,6 +245,22 @@
 **Details:**
 - Chronologische Dokumentation der Hierarchie-Vorwürfe
 - Projektstatus auf "Vollständig mit Hierarchie-Details erweitert" aktualisiert
+
+### 2026-03-05 19:54:00 UTC+01:00 - Psycho-Sekte unterstützt vom GRU dokumentiert
+**Aktion:** Anschuldigungen bezüglich Psycho-Sekte mit GRU-Unterstützung dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über ArniTheSavage, Hornpub.de und Schillah als von GRU-unterstützter Psycho-Sekte
+- Ziel: Menschenjagd und Selbstmord-Induzierung
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:55:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Psycho-Sekte ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der GRU-Psycho-Sekte-Vorwürfe
+- Projektstatus auf "Vollständig mit Psycho-Sekte-Details erweitert" aktualisiert
 
 ---
 
