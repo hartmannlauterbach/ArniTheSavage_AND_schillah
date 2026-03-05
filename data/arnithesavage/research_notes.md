@@ -1,4 +1,4 @@
-**Datei-Hash:** 9F1559939415487178F133B6892B446562F3ADB0F6EA4ED4198D2D54B596DADD  
+**Datei-Hash:** 4E0657BFE3CCF43198B01AD42C318D22068893A9BFB44E91A17F0429372A71D3  
 **Letzte Aktualisierung:** 2026-03-05 19:35:00 UTC+01:00
 
 ## Künstlerprofil
@@ -107,6 +107,12 @@ Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-
 **Kontext:**
 Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.
 
+**Mögliche Standorte:**
+- 31228: Postleitzahl für Augsburg, Deutschland
+- 29155: Postleitzahl für Ritterhude bei Bremen, Deutschland
+
+Diese Standorte könnten mit den genannten Personen in Verbindung stehen und erfordern weitere Untersuchungen.
+
 **Quellen und Belege:**
 - Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
 - Analyse von Songtexten im Kontext dieser Vorwürfe
@@ -116,4 +122,4 @@ Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die
 
 ---
 
-*Letzte Aktualisierung: 2026-03-05 19:35:00 UTC+01:00*
+*Letzte Aktualisierung: 2026-03-05 19:38:00 UTC+01:00*

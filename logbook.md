@@ -1,5 +1,5 @@
-**Datei-Hash:** 9355AAA744EA58C87BC4F5D095B097E5A9AA665C2165CF2E687B02C575076275  
-**Letzte Aktualisierung:** 2026-03-05 19:34:00 UTC+01:00
+**Datei-Hash:** 671429CDCB814DABE20B1E24D998E26A6077A5A415BF50B32E9117A0372A6A3B  
+**Letzte Aktualisierung:** 2026-03-05 19:37:00 UTC+01:00
 
 ## Eintragungsprotokoll
 
@@ -103,6 +103,28 @@
 **Details:**
 - Chronologische Dokumentation der erweiterten Forschung
 - Projektstatus auf "Vertieft" aktualisiert
+
+### 2026-03-05 19:35:00 UTC+01:00 - Neue Vorwürfe zu Nazi-Sekte dokumentiert
+**Aktion:** Anschuldigungen bezüglich Nazi-Sekte als Drahtzieher dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über Nazi-Sekte geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.
+- Dokumentation in allen Forschungsnotizen aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:36:00 UTC+01:00 - README.md mit Nazi-Sekte-Informationen erweitert
+**Aktion:** README.md mit Details zur Nazi-Sekte aktualisiert
+**Status:** Abgeschlossen
+**Details:**
+- NWO-Sektion mit Hinweis auf Nazi-Sekte als Drahtzieher ergänzt
+- Zeitstempel und Hash aktualisiert
+
+### 2026-03-05 19:37:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Nazi-Sekte ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der neuen Vorwürfe
+- Projektstatus auf "Vollständig erweitert" aktualisiert
 
 ---
 
