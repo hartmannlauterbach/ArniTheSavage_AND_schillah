@@ -99,6 +99,7 @@ Die Anschuldigungen gegen ArniTheSavage und Schillah passen in dieses Schema, in
 - ISD Global: Gangstalking and Targeted Individuals (2023)
 - Wikipedia: Music in Psychological Operations
 - Peer-reviewed Studien zu Targeted Individuals
+- Wikipedia-Analyse (evidenzbasiert): Schillah hat etablierten Artikel (letzte Bearbeitung 31.01.2026), ArniTheSavage kein Artikel vorhanden
 
 ## Forschungsziele
 

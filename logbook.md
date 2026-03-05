@@ -262,6 +262,38 @@
 - Chronologische Dokumentation der GRU-Psycho-Sekte-Vorwürfe
 - Projektstatus auf "Vollständig mit Psycho-Sekte-Details erweitert" aktualisiert
 
+### 2026-03-05 19:56:00 UTC+01:00 - Wikipedia-Analyse evidenzbasiert durchgeführt
+**Aktion:** Evidenzbasierte Analyse der Wikipedia-Artikel für Schillah und ArniTheSavage durchgeführt
+**Status:** Abgeschlossen
+**Details:**
+- Schillah: Artikel vorhanden, letzte Bearbeitung 31.01.2026, detaillierte Inhaltsanalyse aus Browsermcp-Snapshot
+- ArniTheSavage: Kein Artikel vorhanden (Redlink)
+- Edit-History-Zugriff fehlgeschlagen aufgrund Tool-Fehlers, aber letzte Bearbeitung dokumentiert
+- Alle Erkenntnisse evidenzbasiert in Forschungsnotizen dokumentiert
+
+### 2026-03-05 19:57:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Wikipedia-Analyse ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der evidenzbasierten Wikipedia-Untersuchung
+- Projektstatus auf "Vollständig mit Wikipedia-Analyse erweitert" aktualisiert
+
+### 2026-03-05 19:54:00 UTC+01:00 - Psycho-Sekte unterstützt vom GRU dokumentiert
+**Aktion:** Anschuldigungen bezüglich Psycho-Sekte mit GRU-Unterstützung dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über ArniTheSavage, Hornpub.de und Schillah als von GRU-unterstützter Psycho-Sekte
+- Ziel: Menschenjagd und Selbstmord-Induzierung
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:55:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Psycho-Sekte ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der GRU-Psycho-Sekte-Vorwürfe
+- Projektstatus auf "Vollständig mit Psycho-Sekte-Details erweitert" aktualisiert
+
 ---
 
 ## Forschungsquellen
