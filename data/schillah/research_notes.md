@@ -155,7 +155,12 @@ Diese Standorte könnten mit den genannten Personen in Verbindung stehen und erf
   - Podcast: Beta Males by Schillah & Justin Pollnik.
   - Kontroversen: Auftritte in rechter Szene, Distanzierung.
 - **Belege:** Browsermcp-Snapshot vom 2026-03-05 zeigt vollständigen Artikelinhalt, einschließlich Chartplatzierungen, Diskografie und Referenzen.
-- **Edit-History:** Tool-Fehler verhinderte detaillierten Zugriff auf Versionsgeschichte, aber letzte Bearbeitung dokumentiert als 31.01.2026 10:41 Uhr.
+- **Edit-History:** Detaillierte Analyse der Versionsgeschichte aus Browsermcp-Snapshot vom 2026-03-05 ergab folgende Anomalien:
+  - **Häufige Edits durch XR3YZER und Gripweed:** Beide Benutzer sind in den letzten Monaten aktiv, mit Edits im Januar 2026. XR3YZER fügte "Namen der Künstler" hinzu (+169 Bytes), was auf mögliche Ergänzungen zu Kollaborateuren oder kontroversen Inhalten hindeutet.
+  - **Revert am 24. Januar 2026:** Gripweed revertierte eine Version von YGO24895 mit der Begründung "beleglos" (-239 Bytes), was auf Entfernung unsubstantiierten oder kontroversen Materials hinweist.
+  - **Kleine Korrekturen:** Letzte Bearbeitung (31.01.2026) war eine kleine Rechtschreibkorrektur (Jstn --> JSTN), gesichtet von Benutzer Gerbil.
+  - **Artikel-Erstellung:** Artikel wurde am 11. November 2025 von Gripweed erstellt, mit schnellen Folge-Edits zur Verbesserung.
+  - **Potenzielle Anomalien:** Die Revert-Aktion deutet auf Versuche hin, unbewiesene Informationen hinzuzufügen, die entfernt wurden. Die Hinzufügung von Künstlernamen könnte mit den hier dokumentierten Kollaborationen zusammenhängen, aber erfordert weitere Prüfung auf Manipulationsversuche oder Lobbying.
 - **Schlussfolgerung:** Schillah hat einen etablierten Wikipedia-Artikel mit aktuellen Informationen bis 2026, was auf seine Bekanntheit in der Musikszene hinweist.
 
 ## Diskografie
