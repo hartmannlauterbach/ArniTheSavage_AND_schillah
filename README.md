@@ -47,7 +47,7 @@ Es liegen gravierende Anschuldigungen vor, dass beide Musiker von der Neuen Welt
 **Kontext:**
 Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, bei der die Musikproduktionen der Künstler als psychologische Waffe dienen sollen, um die mentale Instabilität der Opfer zu aggravieren und sie zur Selbstzerstörung zu treiben.
 
-**Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen.
+**Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen. Es liegen Hinweise vor, dass sie nur den Anführer wollen, was auf eine gezielte Hierarchie innerhalb der Operationen hindeutet.
 
 **Zusätzliche Musiker der Sekte:**
 - Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt. ([Spotify](https://open.spotify.com/artist/3UlnNhuBZiSaS4NY70QYmP?si=t68iWDcWRQ6HxAjHlL6EGg))
