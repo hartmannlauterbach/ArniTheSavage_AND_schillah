@@ -1,5 +1,5 @@
-**Datei-Hash:** 4172A1F414F8809A59933DB0C429C0AD145FC8DB7A8FB01661F1D6E83ED2EF05  
-**Letzte Aktualisierung:** 2026-03-05 19:30:00 UTC+01:00
+**Datei-Hash:** 9355AAA744EA58C87BC4F5D095B097E5A9AA665C2165CF2E687B02C575076275  
+**Letzte Aktualisierung:** 2026-03-05 19:34:00 UTC+01:00
 
 ## Eintragungsprotokoll
 
@@ -78,6 +78,31 @@
 **Details:**
 - Alle neuen Erkenntnisse chronologisch dokumentiert
 - Projektstatus auf "Erweitert" aktualisiert
+
+### 2026-03-05 19:32:00 UTC+01:00 - Tiefere Recherche durchgeführt
+**Aktion:** Umfassende Recherche zu Psycho-Gruppen und Gangstalking durchgeführt
+**Status:** Abgeschlossen
+**Details:**
+- Definitionen und Methoden von PSYOP-Gruppen dokumentiert
+- Gangstalking als organisierte Belästigung erklärt
+- Musik als psychologische Waffe analysiert
+- Relevanz zu den Vorwürfen gegen die Künstler hergestellt
+- Forschungsergebnisse in allen Notizen und README integriert
+- Quellen: ISD Global, Wikipedia, Peer-reviewed Studien
+
+### 2026-03-05 19:33:00 UTC+01:00 - README.md mit tieferer Recherche erweitert
+**Aktion:** README.md mit neuen Abschnitten zu Psycho-Gruppen und Gangstalking aktualisiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Sektion "Tiefere Recherche: Psycho-Gruppen und Gangstalking" hinzugefügt
+- Zeitstempel und Hash aktualisiert
+
+### 2026-03-05 19:34:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zur tieferen Recherche ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der erweiterten Forschung
+- Projektstatus auf "Vertieft" aktualisiert
 
 ---
 

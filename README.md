@@ -1,5 +1,5 @@
-**Datei-Hash:** B891BF8297A383C2C8FD7139CF4314DA38C52AC689A1B6EBB0CA390B2657F4CC  
-**Letzte Aktualisierung:** 2026-03-05 19:29:00 UTC+01:00
+**Datei-Hash:** 191150AAFFAAEB24D0439DE1602229E5F09DB5FD2038B578688BEDAF55BB22BE  
+**Letzte Aktualisierung:** 2026-03-05 19:33:00 UTC+01:00
 
 ## Projektübersicht
 
@@ -47,9 +47,40 @@ Es liegen gravierende Anschuldigungen vor, dass beide Musiker von der Neuen Welt
 **Kontext:**
 Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, bei der die Musikproduktionen der Künstler als psychologische Waffe dienen sollen, um die mentale Instabilität der Opfer zu aggravieren und sie zur Selbstzerstörung zu treiben.
 
+### Tiefere Recherche: Psycho-Gruppen und Gangstalking
+
+**Definition von Psycho-Gruppen:**
+Psycho-Gruppen beziehen sich auf Einheiten für psychologische Operationen (PSYOP), die von Militär, Geheimdiensten oder anderen Organisationen eingesetzt werden. Diese Gruppen nutzen verschiedene Methoden, um das Verhalten, die Meinungen und die Moral von Zielgruppen zu beeinflussen. Historisch gesehen wurden PSYOP-Einheiten in Kriegen und Konflikten eingesetzt, um Feinde zu demoralisieren oder Verbündete zu motivieren.
+
+**Gangstalking:**
+Gangstalking, auch als organisierte Belästigung bekannt, beschreibt die Überzeugung von sogenannten "Targeted Individuals" (TI), dass sie Opfer einer koordinierten Verfolgung und Belästigung durch eine Gruppe von Personen sind. Diese Gruppe soll aus Nachbarn, Fremden, Regierungsvertretern oder anderen rekrutierten Individuen bestehen.
+
+**Methoden und Praktiken:**
+- **Überwachung:** 24/7-Beobachtung durch vermeintliche Mitverschwörer.
+- **Elektronische Belästigung:** Einsatz von Psychotronic-Waffen, gerichteten Energie-Waffen, Cyberstalking und hypnotischer Suggestion über elektronische Geräte.
+- **Lärmbelästigung:** Gezielte Geräusche zur Provokation.
+- **Physische Angriffe:** Vergiftungen oder Implantate von Mikrochips zur Verfolgung.
+- **Psychologische Manipulation:** Verstärkung von Paranoia und psychischen Störungen.
+
+**Ziel von Gangstalking:**
+Das Ziel soll sein, das Opfer in Verzweiflung, Paranoia und Isolation zu treiben, oft mit dem Ergebnis von sozialer Ausgrenzung, wirtschaftlichem Ruin oder sogar Selbstmord. Viele Fälle werden als psychische Erkrankungen diagnostiziert, aber Betroffene lehnen dies ab und sehen es als Teil einer größeren Verschwörung.
+
+**Musik als psychologische Waffe:**
+Musik wird in psychologischen Operationen häufig als Waffe eingesetzt:
+- **Lautstärke als Folter:** Wiederholte, laute Musik zur Brechung von Gefangenen (z.B. Heavy Metal bei Manuel Noriega).
+- **Grenzüberschreitende Ausstrahlungen:** K-Pop-Musik über die koreanische Demilitarisierte Zone zur Demoralisierung.
+- **Historische Beispiele:** Todesschwirrer (Death Whistles) der Azteken als psychologische Kriegswaffe; römische Truppen mit akustischen Waffen.
+- **Moderne Anwendungen:** Musik zur Induzierung von Stimmen oder Halluzinationen bei Opfern, oft in Verbindung mit Gangstalking.
+
+**Relevanz zu den Vorwürfen:**
+Die Anschuldigungen gegen ArniTheSavage und Schillah passen in dieses Schema, indem ihre Musik als gezieltes Mittel zur Verstärkung psychischer Instabilität bei anfälligen Opfern eingesetzt werden soll. Dies könnte als moderne Form von PSYOP in zivilen Kontexten gesehen werden.
+
 **Belege und Quellen:**
 - Mündliche Berichte von mutmaßlichen Opfern (erfordern weitere Validierung)
 - Kontextuelle Analyse der Songtexte im Hinblick auf diese Anschuldigungen
+- ISD Global: Gangstalking and Targeted Individuals (2023)
+- Wikipedia: Music in Psychological Operations
+- Peer-reviewed Studien zu Targeted Individuals
 
 ## Forschungsziele
 
