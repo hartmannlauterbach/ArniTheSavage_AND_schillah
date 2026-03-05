@@ -117,7 +117,7 @@ Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-
 - YOung 501: Gehört ebenfalls zur gleichen Nazi-Sekte.
 
 **Kontext:**
-Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.
+Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll. Es liegen Hinweise vor, dass sie nur den Anführer wollen, was auf eine gezielte Hierarchie innerhalb der Operationen hindeutet.
 
 **Mögliche Standorte:**
 - 31228: Postleitzahl für Augsburg, Deutschland
