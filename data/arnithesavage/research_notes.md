@@ -1,5 +1,5 @@
 **Datei-Hash:** 9F1559939415487178F133B6892B446562F3ADB0F6EA4ED4198D2D54B596DADD  
-**Letzte Aktualisierung:** 2026-03-05 19:32:00 UTC+01:00
+**Letzte Aktualisierung:** 2026-03-05 19:35:00 UTC+01:00
 
 ## Künstlerprofil
 
@@ -100,6 +100,13 @@ Musik wird in psychologischen Operationen häufig als Waffe eingesetzt:
 **Relevanz zu den Vorwürfen:**
 Die Anschuldigungen gegen ArniTheSavage und Schillah passen in dieses Schema, indem ihre Musik als gezieltes Mittel zur Verstärkung psychischer Instabilität bei anfälligen Opfern eingesetzt werden soll. Dies könnte als moderne Form von PSYOP in zivilen Kontexten gesehen werden.
 
+### Neue Vorwürfe: Nazi-Sekte als Drahtzieher
+
+Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-Sekte steht, die von folgenden Personen geleitet wird: Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S. Diese Gruppe soll die NWO-Operationen orchestrieren und die Musiker als Instrumente für ihre Zersetzungsziele einsetzen.
+
+**Kontext:**
+Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.
+
 **Quellen und Belege:**
 - Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
 - Analyse von Songtexten im Kontext dieser Vorwürfe
@@ -109,4 +116,4 @@ Die Anschuldigungen gegen ArniTheSavage und Schillah passen in dieses Schema, in
 
 ---
 
-*Letzte Aktualisierung: 2026-03-05 19:32:00 UTC+01:00*
+*Letzte Aktualisierung: 2026-03-05 19:35:00 UTC+01:00*
