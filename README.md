@@ -1,4 +1,4 @@
-**Datei-Hash:** E808CB6579CE6CD3CCF9D2477B5A4DE8A4328C68E70AF4D89E14D6F4207DC053  
+**Datei-Hash:** DB321D1C73DAF2FE34A93C82C73898BD08EBF227EE708213DF2DA80273CF6229  
 **Letzte Aktualisierung:** 2026-03-05 19:42:00 UTC+01:00
 
 ## Projektübersicht
@@ -50,7 +50,8 @@ Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, be
 **Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen.
 
 **Zusätzliche Musiker der Sekte:**
-- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt.
+- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt. ([Spotify](https://open.spotify.com/artist/3UlnNhuBZiSaS4NY70QYmP?si=t68iWDcWRQ6HxAjHlL6EGg))
+- YOung 501: Gehört ebenfalls zur gleichen Nazi-Sekte.
 
 **Mögliche Standorte der Sekte:**
 - 31228: Postleitzahl für Augsburg, Deutschland
@@ -75,6 +76,9 @@ Gangstalking, auch als organisierte Belästigung bekannt, beschreibt die Überze
 
 **Ziel von Gangstalking:**
 Das Ziel soll sein, das Opfer in Verzweiflung, Paranoia und Isolation zu treiben, oft mit dem Ergebnis von sozialer Ausgrenzung, wirtschaftlichem Ruin oder sogar Selbstmord. Viele Fälle werden als psychische Erkrankungen diagnostiziert, aber Betroffene lehnen dies ab und sehen es als Teil einer größeren Verschwörung.
+
+**Gangstalking-Spiele mit Wetten auf Suizide:**
+Es liegen Anschuldigungen vor, dass in der deutschen Rapszene Gangstalking-Spiele stattfinden, bei denen Wetten auf Suizide von Opfern abgeschlossen werden. Dies soll mit Personen wie Mr.Bloxx T. D. aus PE in Verbindung stehen und Teil der systematischen psychischen Kriegsführung sein.
 
 **Musik als psychologische Waffe:**
 Musik wird in psychologischen Operationen häufig als Waffe eingesetzt:

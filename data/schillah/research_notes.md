@@ -1,4 +1,4 @@
-**Datei-Hash:** 604A5EA07200966F32BCD3B9CCCECC3A689117E2A4042E8C9B0B3C28998631DC  
+**Datei-Hash:** 448A64BD4A1A9E38245080374509593BA9F8808DE38E4DBCA1E8EB4CAF0D349588158FA9758730B5AE8AD  
 **Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
@@ -92,6 +92,12 @@ Gangstalking, auch als organisierte Belästigung bekannt, beschreibt die Überze
 **Ziel von Gangstalking:**
 Das Ziel soll sein, das Opfer in Verzweiflung, Paranoia und Isolation zu treiben, oft mit dem Ergebnis von sozialer Ausgrenzung, wirtschaftlichem Ruin oder sogar Selbstmord. Viele Fälle werden als psychische Erkrankungen diagnostiziert, aber Betroffene lehnen dies ab und sehen es als Teil einer größeren Verschwörung.
 
+**Gangstalking-Spiele mit Wetten auf Suizide:**
+Es liegen Anschuldigungen vor, dass in der deutschen Rapszene Gangstalking-Spiele stattfinden, bei denen Wetten auf Suizide von Opfern abgeschlossen werden. Dies soll mit Personen wie Mr.Bloxx T. D. aus PE in Verbindung stehen und Teil der systematischen psychischen Kriegsführung sein.
+
+**Kontext:**
+Diese Vorwürfe deuten auf eine besonders brutale Form der Manipulation hin, bei der menschliches Leid als Unterhaltung oder Gewinnquelle dient.
+
 **Musik als psychologische Waffe:**
 Musik wird in psychologischen Operationen häufig als Waffe eingesetzt:
 - **Lautstärke als Folter:** Wiederholte, laute Musik zur Brechung von Gefangenen (z.B. Heavy Metal bei Manuel Noriega).
@@ -107,7 +113,8 @@ Die Anschuldigungen gegen Schillah und ArniTheSavage passen in dieses Schema, in
 Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-Sekte steht, die von folgenden Personen geleitet wird: Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S. Diese Gruppe soll die NWO-Operationen orchestrieren und die Musiker als Instrumente für ihre Zersetzungsziele einsetzen.
 
 **Zusätzliche Musiker der Sekte:**
-- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt.
+- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt. ([Spotify](https://open.spotify.com/artist/3UlnNhuBZiSaS4NY70QYmP?si=t68iWDcWRQ6HxAjHlL6EGg))
+- YOung 501: Gehört ebenfalls zur gleichen Nazi-Sekte.
 
 **Kontext:**
 Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.

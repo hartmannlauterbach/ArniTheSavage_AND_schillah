@@ -1,4 +1,4 @@
-**Datei-Hash:** C29330A1D2DE7E745B3C16218EE8EE98FF64473A13663C6FB17D73BF11017BED  
+**Datei-Hash:** 1A050E09BE842AA37EA7DBC5EBA50AA24DA2FE2CD6A07E9F04168E6E9BD9865C  
 **Letzte Aktualisierung:** 2026-03-05 19:45:00 UTC+01:00
 
 ## Eintragungsprotokoll
@@ -185,6 +185,51 @@
 **Details:**
 - Chronologische Dokumentation der zusätzlichen Musiker-Anschuldigungen
 - Projektstatus auf "Vollständig mit zusätzlichen Musikern erweitert" aktualisiert
+
+### 2026-03-05 19:46:00 UTC+01:00 - Spotify-Link für Hornpub dokumentiert
+**Aktion:** Spotify-Künstlerlink für Hornpub hinzugefügt
+**Status:** Abgeschlossen
+**Details:**
+- Link: https://open.spotify.com/artist/3UlnNhuBZiSaS4NY70QYmP?si=t68iWDcWRQ6HxAjHlL6EGg
+- In allen relevanten Dokumenten integriert
+- Zeitstempel und Hash-Werte aktualisiert
+
+### 2026-03-05 19:47:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zum Spotify-Link ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der Link-Hinzufügung
+- Projektstatus auf "Vollständig mit Links erweitert" aktualisiert
+
+### 2026-03-05 19:48:00 UTC+01:00 - YOung 501 als zusätzlicher Musiker der Nazi-Sekte dokumentiert
+**Aktion:** Anschuldigungen bezüglich YOung 501 als Musiker der gleichen Nazi-Sekte dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über YOung 501 als weiteren Musiker der Sekte
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:49:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu YOung 501 ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der zusätzlichen Musiker-Anschuldigungen
+- Projektstatus auf "Vollständig mit allen zusätzlichen Musikern erweitert" aktualisiert
+
+### 2026-03-05 19:50:00 UTC+01:00 - Gangstalking-Spiele mit Wetten auf Suizide dokumentiert
+**Aktion:** Anschuldigungen bezüglich Gangstalking-Spielen mit Wetten auf Suizide in der deutschen Rapszene dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über brutale Gangstalking-Praktiken mit Wetten auf Selbstmorde, verbunden mit Mr.Bloxx T. D. aus PE
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:51:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Gangstalking-Spielen ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der neuen Vorwürfe
+- Projektstatus auf "Vollständig mit Gangstalking-Details erweitert" aktualisiert
 
 ---
 
