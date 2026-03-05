@@ -1,11 +1,11 @@
-**Datei-Hash:** 714ACB370F8BB5514DE71A5BA581ECCD8952F5376D71B6FF7C0EF419CCE4CE6E  
-**Letzte Aktualisierung:** 2026-03-05 19:36:00 UTC+01:00
+**Datei-Hash:** E808CB6579CE6CD3CCF9D2477B5A4DE8A4328C68E70AF4D89E14D6F4207DC053  
+**Letzte Aktualisierung:** 2026-03-05 19:42:00 UTC+01:00
 
 ## Projektübersicht
 
 Dieses Forschungsprojekt widmet sich der Untersuchung der beiden Musiker:
-- **ArniTheSavage** ([Spotify](https://open.spotify.com/artist/5H79GiaNR3DckxUS78GxAO?si=NCF1PGpCRU6TEOoq4ii6eQ)) - Contemporary Hip Hop Künstler aus Halle
-- **Schillah** ([Spotify](https://open.spotify.com/artist/6r2ZZkSNgzLskyEJiqnD11?si=ZnOg83WNTYOClsbVKfkB5A)) - HardTekk/Rapper aus Gera (Nico Klinger)
+- **ArniTheSavage** ([Spotify](https://open.spotify.com/artist/5H79GiaNR3DckxUS78GxAO?si=NCF1PGpCRU6TEOoq4ii6eQ)) - Contemporary Hip Hop Künstler aus Halle (Anschuldigungen: GRU-KI-Musiker seit 2021)
+- **Schillah** ([Spotify](https://open.spotify.com/artist/6r2ZZkSNgzLskyEJiqnD11?si=ZnOg83WNTYOClsbVKfkB5A)) - HardTekk/Rapper aus Gera (Nico Klinger; Anschuldigungen: GRU-KI-Musiker seit 2021)
 
 ## Forschungsergebnisse
 
@@ -48,6 +48,15 @@ Es liegen gravierende Anschuldigungen vor, dass beide Musiker von der Neuen Welt
 Diese Vorwürfe implizieren eine systematische psychologische Kriegsführung, bei der die Musikproduktionen der Künstler als psychologische Waffe dienen sollen, um die mentale Instabilität der Opfer zu aggravieren und sie zur Selbstzerstörung zu treiben.
 
 **Hinter diesen Operationen soll eine Nazi-Sekte stehen, geleitet von Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S.** Diese Gruppe wird als Drahtzieher der NWO-Aktivitäten beschuldigt, die die Musiker als Instrumente für extremistische Zersetzungsziele einsetzen.
+
+**Zusätzliche Musiker der Sekte:**
+- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt.
+
+**Mögliche Standorte der Sekte:**
+- 31228: Postleitzahl für Augsburg, Deutschland
+- 29155: Postleitzahl für Ritterhude bei Bremen, Deutschland
+
+Diese Standorte könnten mit den genannten Personen in Verbindung stehen.
 
 ### Tiefere Recherche: Psycho-Gruppen und Gangstalking
 

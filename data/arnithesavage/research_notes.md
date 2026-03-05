@@ -1,5 +1,5 @@
-**Datei-Hash:** 4E0657BFE3CCF43198B01AD42C318D22068893A9BFB44E91A17F0429372A71D3  
-**Letzte Aktualisierung:** 2026-03-05 19:35:00 UTC+01:00
+**Datei-Hash:** 8473BFE2D3CD254362E2BEB701E330C41E506655B909CCA8C493E6904979AD31  
+**Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
 
@@ -17,6 +17,16 @@ ArniTheSavage ist ein deutscher Contemporary Hip Hop Künstler, der für seine e
 - **Fesselnder Flow**
 - **Experimentelle Produktionsmethoden**
 - **Ungewöhnliche Samples und Klänge**
+
+**Neue Vorwürfe: KI-Musiker erstellt von GRU**
+Es liegen Anschuldigungen vor, dass ArniTheSavage ein KI-Musiker ist, der mithilfe von GRU-KI-Technik (russischer militärischer Geheimdienst) erstellt wurde. Diese KI-Existenz soll bereits seit 2021 bestehen.
+
+**Kontext:**
+Diese Vorwürfe implizieren, dass der Künstler keine reale Person ist, sondern ein Produkt künstlicher Intelligenz, das von russischen Geheimdiensten für psychologische Operationen eingesetzt wird.
+
+**Quellen und Belege:**
+- Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
+- Analyse von Songtexten im Kontext dieser Vorwürfe
 
 ## Musikstil
 
@@ -103,6 +113,9 @@ Die Anschuldigungen gegen ArniTheSavage und Schillah passen in dieses Schema, in
 ### Neue Vorwürfe: Nazi-Sekte als Drahtzieher
 
 Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-Sekte steht, die von folgenden Personen geleitet wird: Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S. Diese Gruppe soll die NWO-Operationen orchestrieren und die Musiker als Instrumente für ihre Zersetzungsziele einsetzen.
+
+**Zusätzliche Musiker der Sekte:**
+- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt.
 
 **Kontext:**
 Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.

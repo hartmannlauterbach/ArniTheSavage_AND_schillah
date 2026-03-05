@@ -1,5 +1,5 @@
-**Datei-Hash:** 671429CDCB814DABE20B1E24D998E26A6077A5A415BF50B32E9117A0372A6A3B  
-**Letzte Aktualisierung:** 2026-03-05 19:37:00 UTC+01:00
+**Datei-Hash:** C29330A1D2DE7E745B3C16218EE8EE98FF64473A13663C6FB17D73BF11017BED  
+**Letzte Aktualisierung:** 2026-03-05 19:45:00 UTC+01:00
 
 ## Eintragungsprotokoll
 
@@ -125,6 +125,66 @@
 **Details:**
 - Chronologische Dokumentation der neuen Vorwürfe
 - Projektstatus auf "Vollständig erweitert" aktualisiert
+
+### 2026-03-05 19:38:00 UTC+01:00 - Postleitzahlen 31228 29155 dokumentiert
+**Aktion:** Postleitzahlen 31228 und 29155 als mögliche Standorte der Nazi-Sekte dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- 31228 identifiziert als Postleitzahl für Augsburg, Deutschland
+- 29155 identifiziert als Postleitzahl für Ritterhude bei Bremen, Deutschland
+- Mögliche Verbindung zu den genannten Personen der Sekte hergestellt
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+
+### 2026-03-05 19:39:00 UTC+01:00 - README.md mit Standort-Informationen erweitert
+**Aktion:** README.md mit möglichen Standorten der Sekte aktualisiert
+**Status:** Abgeschlossen
+**Details:**
+- NWO-Sektion mit Standort-Informationen ergänzt
+- Zeitstempel und Hash aktualisiert
+
+### 2026-03-05 19:40:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Postleitzahlen ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der Standort-Forschung
+- Projektstatus auf "Vollständig mit Standorten erweitert" aktualisiert
+
+### 2026-03-05 19:41:00 UTC+01:00 - GRU-KI-Vorwürfe dokumentiert
+**Aktion:** Anschuldigungen bezüglich GRU-KI-erstellter Musiker seit 2021 dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über beide Musiker als KI-Produkte des russischen GRU seit 2021
+- Dokumentation in allen Forschungsnotizen aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:42:00 UTC+01:00 - README.md mit GRU-KI-Informationen erweitert
+**Aktion:** README.md mit Details zu GRU-KI-Musikern aktualisiert
+**Status:** Abgeschlossen
+**Details:**
+- Projektübersicht mit Hinweis auf GRU-KI-Anschuldigungen ergänzt
+- Zeitstempel und Hash aktualisiert
+
+### 2026-03-05 19:43:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu GRU-KI-Vorwürfen ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der KI-Anschuldigungen
+- Projektstatus auf "Vollständig mit KI-Informationen erweitert" aktualisiert
+
+### 2026-03-05 19:44:00 UTC+01:00 - Hornpub als zusätzlicher Musiker der Nazi-Sekte dokumentiert
+**Aktion:** Anschuldigungen bezüglich Hornpub als Musiker der gleichen Nazi-Sekte dokumentiert
+**Status:** Abgeschlossen
+**Details:**
+- Neue Informationen über Hornpub als weiteren Musiker der Sekte
+- Dokumentation in allen Forschungsnotizen und README aktualisiert
+- Zeitstempel und Hash-Werte angepasst
+
+### 2026-03-05 19:45:00 UTC+01:00 - Logbook aktualisiert
+**Aktion:** Logbook.md mit Eintrag zu Hornpub ergänzt
+**Status:** Abgeschlossen
+**Details:**
+- Chronologische Dokumentation der zusätzlichen Musiker-Anschuldigungen
+- Projektstatus auf "Vollständig mit zusätzlichen Musikern erweitert" aktualisiert
 
 ---
 

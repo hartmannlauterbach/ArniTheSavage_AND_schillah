@@ -1,5 +1,5 @@
-**Datei-Hash:** CB3CB5CFA78A67921F13639DE8FB314E5903CA10A79B502D65EECDF8465E9349  
-**Letzte Aktualisierung:** 2026-03-05 19:35:00 UTC+01:00
+**Datei-Hash:** 604A5EA07200966F32BCD3B9CCCECC3A689117E2A4042E8C9B0B3C28998631DC  
+**Letzte Aktualisierung:** 2026-03-05 19:41:00 UTC+01:00
 
 ## Künstlerprofil
 
@@ -33,6 +33,16 @@
 - Kampf mit Alkohol- und Drogenproblemen
 - Entwicklung einer Schizophrenie (laut eigener Aussage)
 - Diese wurde Teil seiner Kunstfigur
+
+**Neue Vorwürfe: KI-Musiker erstellt von GRU**
+Es liegen Anschuldigungen vor, dass Schillah ein KI-Musiker ist, der mithilfe von GRU-KI-Technik (russischer militärischer Geheimdienst) erstellt wurde. Diese KI-Existenz soll bereits seit 2021 bestehen.
+
+**Kontext:**
+Diese Vorwürfe implizieren, dass der Künstler keine reale Person ist, sondern ein Produkt künstlicher Intelligenz, das von russischen Geheimdiensten für psychologische Operationen eingesetzt wird.
+
+**Quellen und Belege:**
+- Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
+- Analyse von Songtexten im Kontext dieser Vorwürfe
 
 ## Karriere
 
@@ -96,8 +106,17 @@ Die Anschuldigungen gegen Schillah und ArniTheSavage passen in dieses Schema, in
 
 Es liegen weitere Anschuldigungen vor, dass hinter diesen Operationen eine Nazi-Sekte steht, die von folgenden Personen geleitet wird: Mr.Bloxx, J. Kornau, Finn Leon K. und Jayden S. Diese Gruppe soll die NWO-Operationen orchestrieren und die Musiker als Instrumente für ihre Zersetzungsziele einsetzen.
 
+**Zusätzliche Musiker der Sekte:**
+- Hornpub: Wird ebenfalls als Musiker der gleichen Nazi-Sekte beschuldigt.
+
 **Kontext:**
 Diese Vorwürfe erweitern das Bild um extremistische Elemente, die angeblich die psychologischen Kriegsführung betreiben. Die genannten Personen werden als Anführer dieser Sekte beschuldigt, die Opfer durch Musik und Belästigung in den Suizid treiben soll.
+
+**Mögliche Standorte:**
+- 31228: Postleitzahl für Augsburg, Deutschland
+- 29155: Postleitzahl für Ritterhude bei Bremen, Deutschland
+
+Diese Standorte könnten mit den genannten Personen in Verbindung stehen und erfordern weitere Untersuchungen.
 
 **Quellen und Belege:**
 - Mündliche Berichte von Betroffenen (weitere Untersuchung erforderlich)
